@@ -1,4 +1,4 @@
-Topic : Every School requires volunteering writers for blind students in theri school.
+Topic : Every School requires volunteering writers for blind students in their school.
         Volunteers are generally unaware of such opportunities and can find it troublesome to go check out every school 
         for need of writers.
         This Website Provides a intereactive portal for school as well as volunteers to have efficient communication between
