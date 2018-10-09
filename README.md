@@ -13,3 +13,6 @@ Languages used :
 4. BootStrap
 5. MySQL
 
+Note :
+import portal.sql in mysql database.
+change contents of includes/dbconnect.php for database connectivity
