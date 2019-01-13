@@ -6,6 +6,8 @@ Topic : Every School requires volunteering writers for blind students in their s
         School can host various exams according to their requiremnts and volunteers can appear for this exam as per their
         convineince.
         
+Team Member : Rajat Sawant (github.com/rajat81)
+
 Languages used :
 1. PHP
 2. HTML+CSS
