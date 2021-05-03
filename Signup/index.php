@@ -8,7 +8,7 @@ require_once '../actions/db_connect.php';
 //if(isset($_SESSION['userId'])) {
 //	header('location: http://localhost/clever/Signup/index.php');
 //}
-$errors= array();
+$errors= array()
 if($_POST)
 {
   $name = $_POST['name'];
