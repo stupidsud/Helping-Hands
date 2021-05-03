@@ -9,7 +9,7 @@ if(isset($_SESSION['userId'])) {
 	header('location: http://localhost/clever/exam/School_Portal.php');
 }
 
-$errors = ();
+$errors = array();
 
 if($_POST)
 {
