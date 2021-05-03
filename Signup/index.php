@@ -11,7 +11,7 @@ require_once '../actions/db_connect.php';
 $errors= array();
 if($_POST)
 {
-  $name = $_POST['name'];
+  $nam = $_POST['name'];
   $email = $_POST['email'];
   $sql = "SELECT name FROM Volunteer where username='".$_POST['username']."'";
   echo $sql;
