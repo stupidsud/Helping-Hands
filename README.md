@@ -7,9 +7,9 @@ Topic : Every School requires volunteering writers for blind students in their s
         convineince.
         
 Team Member : 
-Rajat Sawant
-Sudarshan Phalke
-Litesh Zambre
+Rajat Sawant,
+Sudarshan Phalke,
+Litesh Zambre,
 Shruti Sapre
 
 Languages used :
